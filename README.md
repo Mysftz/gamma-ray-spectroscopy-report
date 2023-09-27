@@ -2,7 +2,7 @@
 <div align="center">
 
 [![alt text](https://github.com/Mysftz/Mysftz/blob/main/assets/READMEHeader.jpeg?raw=true)](https://github.com/Mysftz)
-# # Gamma Ray Spectroscopy Report
+# Gamma Ray Spectroscopy Report
 [![GitHub][GitHub-shield]](https://github.com/Mysftz/gamma-ray-spectroscopy-report)
 [![Contributors][contributors-shield]](https://github.com/Mysftz/gamma-ray-spectroscopy-report/graphs/contributors)
 [![Forks][forks-shield]](https://github.com/Mysftz/gamma-ray-spectroscopy-report/network/members)
